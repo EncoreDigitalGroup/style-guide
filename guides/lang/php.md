@@ -1,7 +1,7 @@
 # PHP Language Style Guide
 
 ## Overview
-This style guide expands on the [common style guide](/guides/common.md).
+This style guide expands on the [common style guide](./../common.md).
 
 ## Naming
 
