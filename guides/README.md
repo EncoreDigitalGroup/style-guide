@@ -1,5 +1,14 @@
 # Style Guide Table of Contents
 
-1. [Common Language Style Guide](./common.md)
-2. [PHP Language Style Guide](./lang/php.md)
-2. [SQL Language Style Guide](./lang/sql.md)
+## General Style Guides
+
+- [Common Language Style Guide](./common.md)
+
+## Language-Specific Style Guides
+
+- [PHP Language Style Guide](./lang/php.md)
+- [SQL Language Style Guide](./lang/sql.md)
+
+## Tool Specific Style Guides
+
+- [Git Style Guide](./tools/git.md)
