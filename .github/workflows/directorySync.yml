@@ -8,7 +8,7 @@ on:
 
 jobs:
   DirectorySync:
-    uses: EncoreDigitalGroup/.github/.github/workflows/directorySync.yml@latest
+    uses: EncoreDigitalGroup/.github/.github/workflows/directorySync.yml@v1
     with:
       source: 'guides/'
       targetRepo: 'encoredigitalgroup/internal-kb'
