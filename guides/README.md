@@ -9,6 +9,7 @@
 - [PHP Language Style Guide](./lang/php.md)
 - [SQL Language Style Guide](./lang/sql.md)
 
-## Tool Specific Style Guides
+## Tool Specific Guides
 
 - [Git Style Guide](./tools/git.md)
+- [GitHub Dependabot](./tools/github/dependabot.md)
