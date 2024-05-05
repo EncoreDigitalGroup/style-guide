@@ -94,7 +94,6 @@ to the `jobs` section of your GitHub Workflow:
 
 ```yaml
 AutoMerge:
- needs: Duster
  name: AutoMerge
  uses: EncoreDigitalGroup/.github/.github/workflows/dependabotAutoMerge.yml@v1
 ```
