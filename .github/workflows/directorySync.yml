@@ -12,6 +12,6 @@ jobs:
     with:
       source: 'guides/'
       targetRepo: 'encoredigitalgroup/internal-kb'
-      targetDirectory: 'style-guide'
+      targetDirectory: 'StyleGuide'
     secrets:
       token: ${{ secrets.GH_GENERAL_ACCESS_TOKEN }}
