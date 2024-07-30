@@ -1,3 +1,7 @@
+---
+title: Git Style Guide
+---
+
 # Git Style Guide
 
 ## Overview

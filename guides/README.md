@@ -1,4 +1,8 @@
-# Style Guide Table of Contents
+---
+title: Overview
+---
+
+# Style Guide Overview
 
 ## General Style Guides
 
@@ -6,10 +10,10 @@
 
 ## Language-Specific Style Guides
 
-- [PHP Language Style Guide](./lang/php.md)
-- [SQL Language Style Guide](./lang/sql.md)
+- [PHP Language Style Guide](./Language/PHP.md)
+- [SQL Language Style Guide](./Language/PHP.md)
 
 ## Tool Specific Guides
 
-- [Git Style Guide](./tools/git.md)
-- [GitHub Dependabot](./tools/github/dependabot.md)
+- [Git Style Guide](./Tools/Git.md)
+- [GitHub Dependabot](./Tools/GitHub/Dependabot.md)

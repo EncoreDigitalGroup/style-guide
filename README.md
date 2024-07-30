@@ -8,7 +8,7 @@ If you've arrived here, you're probably thinking, "Great, yet another company is
 
 ### Language-Specific Style Guides
 
-[PHP Style Guide](/guides/lang/php.md)
+[PHP Style Guide](/guides/Language/PHP.md)
 
 <br /><br /><br /><br />
 ![](/img/the-code-is-more-like-guidelines.jpg)

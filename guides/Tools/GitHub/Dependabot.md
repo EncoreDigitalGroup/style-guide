@@ -1,3 +1,7 @@
+---
+title: Dependabot
+---
+
 # GitHub Dependabot Guide
 
 ## Overview
