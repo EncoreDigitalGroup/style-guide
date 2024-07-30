@@ -1,3 +1,7 @@
+---
+title: SQL
+---
+
 # SQL Language Style Guide
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+title: Common Style Guide
+---
+
 # Common Language Style Guide
 
 ## Capitalization
